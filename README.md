@@ -12,7 +12,13 @@
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
 </div>  
 
+## Introduction
+This web application is online course taking website. It is made in ASP.Net and for databse its MYSql.
 
+## Some screengrab
+![](https://github.com/Jimmy5467/eLearning/blob/master/output_images/admin_login.png)
+![](https://github.com/Jimmy5467/eLearning/blob/master/output_images/current_student.png)
+You can find more screengrab in [output](https://github.com/Jimmy5467/eLearning/tree/master/output_images) folder.
 
 ## Facing any issues?
 
