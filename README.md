@@ -1,16 +1,16 @@
 <h1 align="center">eLearning</h1>
 <div align="center">
   
-<a href="https://github.com/Jimmy5467/eLearning/stargazers"><img src="https://img.shields.io/github/stars/Jimmy5467/eLearning?style=flat"/></a> 
-<a href="https://github.com/Jimmy5467/eLearning/network/members"><img src="https://img.shields.io/github/forks/Jimmy5467/eLearning?style=flat"/></a> 
-<a href="https://github.com/Jimmy5467/eLearning/pullss"><img src="https://img.shields.io/github/issues-pr/Jimmy5467/eLearning?style=flat?color=yellow"/></a> 
-<a href="https://github.com/Jimmy5467/eLearning/issues"><img src="https://img.shields.io/github/issues/Jimmy5467/eLearning?style=flat"/></a> 
-<a href="https://github.com/Jimmy5467/eLearning/graphs/contributors"><img src="https://img.shields.io/github/contributors/Jimmy5467/eLearning?color=orange"/></a> 
-<a href="https://github.com/Jimmy5467/eLearning/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Jimmy5467/eLearning?color=1abc9c"/></a> 
+<a href="https://github.com/Jimmy5467/eLearning/stargazers"><img src="https://img.shields.io/github/stars/Jimmy5467/eLearning?style=flat-square"/></a> 
+<a href="https://github.com/Jimmy5467/eLearning/network/members"><img src="https://img.shields.io/github/forks/Jimmy5467/eLearning?style=flat-square"/></a> 
+<a href="https://github.com/Jimmy5467/eLearning/pullss"><img src="https://img.shields.io/github/issues-pr/Jimmy5467/eLearning?style=flat-square?color=yellow"/></a> 
+<a href="https://github.com/Jimmy5467/eLearning/issues"><img src="https://img.shields.io/github/issues/Jimmy5467/eLearning?style=flat-square"/></a> 
+<a href="https://github.com/Jimmy5467/eLearning/graphs/contributors"><img src="https://img.shields.io/github/contributors/Jimmy5467/eLearning?style=flat-square&color=orange"/></a> 
+<a href="https://github.com/Jimmy5467/eLearning/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Jimmy5467/eLearning?style=flat-square&color=1abc9c"/></a> 
 <br>
-![HitCount](http://hits.dwyl.com/Jimmy5467/eLearning.svg)
-![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
-![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
+![](http://hits.dwyl.com/Jimmy5467/eLearning.svg)
+![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat-square&logoColor=white&color=white)
+![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat-square&logoColor=white&color=white)<br>
 </div>  
 
 ## Introduction
