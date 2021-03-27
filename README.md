@@ -18,7 +18,7 @@ This web application is online course taking website. It is made in ASP.Net and 
 ## Some screengrab
 ![](https://github.com/Jimmy5467/eLearning/blob/master/output_images/admin_login.png)
 ![](https://github.com/Jimmy5467/eLearning/blob/master/output_images/current_student.png)
-You can find more screengrab in [output](https://github.com/Jimmy5467/eLearning/tree/master/output_images) folder.
+### You can find more screengrab in [output](https://github.com/Jimmy5467/eLearning/tree/master/output_images) folder. ###
 
 ## Facing any issues?
 
